@@ -33,3 +33,13 @@ I do not want to learn programming simply so that I can write code faster than A
 I want to understand variables, conditions, loops, interaction and relationships, but more importantly, I want to learn how these concepts can become creative decisions. I also want to become capable of reading AI-generated code rather than blindly accepting it. If AI gives me a piece of code, I want to be able to ask: Why does this work? What is it actually doing? Does it behave in the way I intended? What could I change?
 
 This may become increasingly important as AI takes over more of the technical labour of programming. The value of learning programming may move away from memorising syntax and towards understanding structure, evaluating possibilities and making decisions.
+
+## Conclusion
+
+I am not learning programming because I believe AI cannot replace programmers. It probably will replace some kinds of programming work, and pretending otherwise would miss the point of the question.
+
+I am learning programming because I want to understand what lies beyond description.
+
+AI has made it possible for me to turn an idea into an image without knowing how the underlying technology works. Programming gives me a different ability: to define relationships, rules and behaviours that make an idea happen over time.
+
+For me, AI can generate possibilities; programming can help me structure possibilities. The future I want to explore is therefore not one where I compete with AI at writing code, but one where I understand enough about code to decide what I want a creative system to do, why it should do it, and what kind of experience that creates.
