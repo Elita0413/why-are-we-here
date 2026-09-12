@@ -13,3 +13,15 @@ Making Source helped me recognise a difference between describing something and 
 In my creative process, I can use words such as “peaceful,” “futuristic,” or “traditional Chinese” to communicate a visual direction to AI. This allows me to explore possibilities quickly without understanding the technology behind the process. However, these descriptions mainly produce individual visual results. I can select and edit them, but I am not necessarily defining how they relate to each other.
 
 Programming offers a different way of working. Instead of only describing what something should look like, I can define how it should behave. And I see it as a transition from “make this” to “make this happen under these conditions.” AI may be able to generate the code for me, but I still need to understand what I am asking the code to do.
+
+## What does programming mean to me?
+
+Before studying programming, I mostly thought of technology as something that helped me produce a visual outcome. Programming changes my understanding of technology because the material is no longer only the image itself. It can also be behaviour.
+
+Dylan Beattie describes code as a medium that can be expressive and creative, rather than simply a technical tool (Beattie, 2020). This idea is particularly relevant to my design background. In graphic design, I think about composition, typography, colour and visual hierarchy. In moving image, I think about rhythm, framing and sound. Programming introduces another kind of material: variables, rules, repetition, interaction and response.
+
+This also connects with Don Ihde's idea of technological mediation: technologies do not simply sit between humans and the world; they can shape how we experience and understand that world (Ihde, 1990). For me, programming is therefore not just a method for making technology work. It changes what I can imagine a creative work to be.
+
+Frieder Nake's early computer-generated work is an example that I find useful here. Nake did not simply ask a computer to “make art.” He designed parameters and introduced controlled randomness, allowing the computer to make decisions within a structure he had defined. The creative act was therefore not only the final visual result, but also the design of the system that produced it (Victoria and Albert Museum, n.d.).
+
+This makes me think differently about authorship in the age of AI. Perhaps authorship does not require me to manually produce every component. It can also involve deciding the rules, relationships and boundaries within which a system operates.
