@@ -43,3 +43,11 @@ I am learning programming because I want to understand what lies beyond descript
 AI has made it possible for me to turn an idea into an image without knowing how the underlying technology works. Programming gives me a different ability: to define relationships, rules and behaviours that make an idea happen over time.
 
 For me, AI can generate possibilities; programming can help me structure possibilities. The future I want to explore is therefore not one where I compete with AI at writing code, but one where I understand enough about code to decide what I want a creative system to do, why it should do it, and what kind of experience that creates.
+
+## References
+
+Beattie, D. (2020). The art of code [Video]. NDC Conferences. https://www.youtube.com/watch?v=6avJHaC3C2U
+
+Ihde, D. (1990). Technology and the lifeworld: From garden to earth. Indiana University Press. https://doi.org/10.2979/3108.0
+
+Victoria and Albert Museum. (n.d.). Hommage à Paul Klee 13/9/65 Nr.2 (print) by Frieder Nake, 1965. V&A Museum. https://vamaf.org/our-work/acquisitions/hommage-a-paul-klee-13-9-65-nr-2-print-by-frieder-nake-1965/
