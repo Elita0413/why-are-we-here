@@ -25,3 +25,11 @@ This also connects with Don Ihde's idea of technological mediation: technologies
 Frieder Nake's early computer-generated work is an example that I find useful here. Nake did not simply ask a computer to “make art.” He designed parameters and introduced controlled randomness, allowing the computer to make decisions within a structure he had defined. The creative act was therefore not only the final visual result, but also the design of the system that produced it (Victoria and Albert Museum, n.d.).
 
 This makes me think differently about authorship in the age of AI. Perhaps authorship does not require me to manually produce every component. It can also involve deciding the rules, relationships and boundaries within which a system operates.
+
+## What do I want to learn?
+
+I do not want to learn programming simply so that I can write code faster than AI. I want to learn enough to understand how systems think and behave.
+
+I want to understand variables, conditions, loops, interaction and relationships, but more importantly, I want to learn how these concepts can become creative decisions. I also want to become capable of reading AI-generated code rather than blindly accepting it. If AI gives me a piece of code, I want to be able to ask: Why does this work? What is it actually doing? Does it behave in the way I intended? What could I change?
+
+This may become increasingly important as AI takes over more of the technical labour of programming. The value of learning programming may move away from memorising syntax and towards understanding structure, evaluating possibilities and making decisions.
